@@ -3,30 +3,51 @@
 ## About Me 🌟
 I'm a **data enthusiast** exploring the world of **data analysis**! Whether it's cleaning data, analyzing trends, or creating visuals, I'm diving deep into the numbers to uncover valuable insights. Currently, I’m sharpening my skills in:
 
-- ![Excel](https://img.icons8.com/ios-filled/50/000000/microsoft-excel-2019.png) **Excel**
-- ![Tableau](https://img.icons8.com/ios-filled/50/000000/tableau-software.png) **Tableau**
-- ![Power BI](https://img.icons8.com/ios-filled/50/000000/power-bi.png) **Power BI**
-- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) **MySQL**
-- ![Azure](<img width="311" alt="image" src="https://github.com/user-attachments/assets/ef5e6c5a-de2e-4249-a206-311aaa1c937a" />
-) **Azure**
-- ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) **Python**
+<p></p>
 
-## What I’m Learning 📚
-- Data visualization techniques with advanced tools.
-- Optimizing SQL queries for faster data retrieval.
-- Cloud-based data processing with Azure.
+<div align="center"> <h1 align="center"> :nerd_face: DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-## Fun Facts 🤓
-- I believe **data is the new oil**, and I’m here to refine it!
-- Always looking for new projects to challenge my skills.
-- Let’s connect and collaborate – data makes the world go round! 🌍
 
-## My GitHub Stats 📈
+<b>I have experience using these data analysis tools.<b>
 
-![Aimun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimunanis1&show_icons=true&theme=radical)
+<p align="center">
 
-## Let’s Connect 💬
-Feel free to check out my projects, collaborate, or just say hello!
+<a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 
-- 📫 Email me at: aimun.anis@example.com
-- 💼 Check out my LinkedIn: [Aimun Anis](https://www.linkedin.com/in/aimunanis)
+
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
+
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+
+
+</p>
+
+
+<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face: </h1> </div>
+
+
+<b>I have also experience using these data visualization tools.<b>
+
+
+<p align="center">
+
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/> </a>
+
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+
+</p>
+
+
+## What I'm Up To 🏃‍♂️
+- Currently building automated dashboards to analyze real-time data.
+- Learning advanced techniques in **data visualization**.
+
+## Why Data? 📊
+Data is the key to solving problems and making better decisions. I’m passionate about turning raw numbers into stories that drive success. If you have a cool project or need a collaborator, feel free to reach out! 🙌
+
+- 📫 Email: aimun.anis@example.com
+- 💼 LinkedIn: [Aimun Anis](https://www.linkedin.com/in/aimunanis)
