@@ -1,7 +1,16 @@
 # Hi there, I'm Aimun Anis! 👋
 
 ## About Me 🌟
-I'm a **data enthusiast** exploring the world of **data analysis**! Whether it's cleaning data, analyzing trends, or creating visuals, I'm diving deep into the numbers to uncover valuable insights. Currently, I’m sharpening my skills in:
+I'm a **data enthusiast** exploring the world of **data analysis**! Whether it's cleaning data, analyzing trends, or creating visuals, I'm diving deep into the numbers to uncover valuable insights.
+
+
+## What I Work With 💻
+- **Excel**: For data cleaning and analysis
+- **Tableau**: Transforming data into interactive dashboards
+- **Power BI**: Creating powerful business insights
+- **SQL**: Querying databases and structuring data
+- **Python**: For automating and processing data
+- **Azure**: Exploring cloud-based solutions
 
 <p></p>
 
@@ -49,5 +58,5 @@ I'm a **data enthusiast** exploring the world of **data analysis**! Whether it's
 ## Why Data? 📊
 Data is the key to solving problems and making better decisions. I’m passionate about turning raw numbers into stories that drive success. If you have a cool project or need a collaborator, feel free to reach out! 🙌
 
-- 📫 Email: aimun.anis@example.com
-- 💼 LinkedIn: [Aimun Anis](https://www.linkedin.com/in/aimunanis)
+- 📫 Email: aimunanis1@gmail.com
+- 💼 LinkedIn: [Aimun Anis](https://www.linkedin.com/in/aimun-anis/)
